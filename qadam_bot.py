@@ -9,7 +9,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
 
 # ⚠️ TOKENNI BU YERGA QO'YING (yangi token)
-TOKEN = 8718438349:AAH9KzDHj7Kvq6skblT3EzkLM_c0IvmfbVc
+TOKEN = "8718438349:AAH9KzDHj7Kvq6skblT3EzkLM_c0IvmfbVc
 
 bot = telebot.TeleBot(TOKEN)
 
